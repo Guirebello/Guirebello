@@ -7,8 +7,7 @@
 > 🎓 Computer Science student at Federal University of ABC (UFABC)
 > 🌱 Currently learning **JavaScript**, **TypeScript** & **Vue.js**
 
-## Languages/Tools
-          
+## Languages/Tools         
 <img 
     align="left" 
     alt="Linux"
@@ -100,6 +99,6 @@
 <br/>
 <br/>
 
-## Stats
+## Stats   
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Guirebello&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
