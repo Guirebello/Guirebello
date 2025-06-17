@@ -8,96 +8,87 @@
 > 🌱 Currently learning **JavaScript**, **TypeScript** & **Vue.js**
 
 ## Languages/Tools         
-<img 
-    align="left" 
+## Languages/Tools
+
+<p align="left">
+  <img
     alt="Linux"
-    title="Linux" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    title="Linux"
+    width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-/>
-<img 
-    align="left" 
+    style="margin-right: 10px;"
+  />
+  <img
     alt="Bash"
-    title="Bash" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    title="Bash"
+    width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
-/>          
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
+    style="margin-right: 10px;"
+  />
+  <img
+    alt="HTML5"
+    title="HTML5"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+    style="margin-right: 10px;"
+  />
+  <img
+    alt="CSS3"
+    title="CSS3"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    style="margin-right: 10px;"
+  />
+  <img
+    alt="JavaScript"
     title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    style="margin-right: 10px;"
+  />
+  <img
     alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Vuejs"
-    title="Vuejs" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"    
-/>
-<img 
-    align="left" 
-    alt="Mongodb"
-    title="Mongodb" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"  
-/>        
-<img 
-    align="left" 
+    title="TypeScript"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+    style="margin-right: 10px;"
+  />
+  <img
+    alt="Vue.js"
+    title="Vue.js"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
+    style="margin-right: 10px;"
+  />
+  <img
+    alt="MongoDB"
+    title="MongoDB"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+    style="margin-right: 10px;"
+  />
+  <img
     alt="Python"
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
+    title="Python"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    style="margin-right: 10px;"
+  />
+  <img
     alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    title="Java"
+    width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
+    style="margin-right: 10px;"
+  />
+  <img
     alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
+    title="C"
+    width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-/>
-<br/>
-<br/>
+  />
+</p>
+
 
 ## Stats   
 
