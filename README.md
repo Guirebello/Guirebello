@@ -4,10 +4,9 @@
 
 # 👋 Hi there, I’m Guilherme!
 
-> 🎓 Computer Science student at Federal University of ABC (UFABC)
-> 🌱 Currently learning **JavaScript**, **TypeScript** & **Vue.js**
-
-## Languages/Tools         
+- 🎓 Computer Science student at Federal University of ABC (UFABC)
+- 🌱 Currently learning **JavaScript**, **TypeScript** & **Vue.js**
+        
 ## Languages/Tools
 
 <p align="left">
