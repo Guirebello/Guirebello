@@ -80,6 +80,14 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
     style="margin-right: 10px;"
   />
+  <img 
+    alt="Scala"
+    title="Scala"
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" 
+    style="margin-right: 10px;"
+  />
+          
   <img
     alt="C"
     title="C"
